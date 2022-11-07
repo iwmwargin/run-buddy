@@ -305,7 +305,7 @@ section {
       }
 
       .step-text p {
-          color:#var(--tertiary-color)2;
+          color: var(--tertiary-color)2;
           font-size: 18px;
       }
 
